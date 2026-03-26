@@ -12,7 +12,7 @@ To ensure the audit was based on real-time data, I developed a custom **Python**
 ## The Strategy Group Workflow
 * **Stakeholder Interviews:** Engaged with the Dean’s Student Advisory Council to map current communication gaps.
 * **Centralization:** Migrated all verified organization data into a structured Microsoft Teams Hub.
-* **Governance:** Established role-based permissions and shared calendars for the "March Launch" initiative.
+* **Governance:** Established role-based permissions and shared calendars for the "Fall 26' Launch" initiative.
 
 ## Tech Stack
 * **Languages:** Python (Playwright, BeautifulSoup)
