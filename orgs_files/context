@@ -1,0 +1,59 @@
+(function() {
+var initialTopbarState = {"context":{"xsrfToken":"CfDJ8Az9GcAD4TpIm2NmyW6ywWHOHgl-zydWXUzgLmqaPtdTV8BQd_r6t-FxMx9oyV9zEy8LUzFd2tA8q_p-KaevdppqcjjqS1GvrpqEIigIFjXkB9blh9kOXaMefCTqBY30Rvpry0NA8nOndqhO3QO_0MSSIABfgB8fWCJcffsTm5EVYh-haiK0TYZEEp3_mboPNA","jwtToken":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IjY1UFdPSDZQWVBwZDVuU3Bmb2VVbkZYUXVkbyIsImtpZCI6IjY1UFdPSDZQWVBwZDVuU3Bmb2VVbkZYUXVkbyJ9.eyJpc3MiOiJodHRwczovL2NhbXB1c2xhYnMuY29tL2lkZW50aXR5LyIsImF1ZCI6Imh0dHBzOi8vY2FtcHVzbGFicy5jb20vaWRlbnRpdHkvcmVzb3VyY2VzIiwiZXhwIjoxNzcyMTg3MzQ5LCJuYmYiOjE3NzIxMDA5NDksImNsaWVudF9pZCI6ImNvbGxlZ2lhdGVMaW5rV2ViIiwic2NvcGUiOlsib3BlbmlkIiwicHJvZmlsZSIsImluc3RpdHV0aW9uIl0sInN1YiI6ImI0NGNhMzAwLTA5MDktNGVmMC05YzZmLTUwZWUyN2I5MTI0OCIsImF1dGhfdGltZSI6MTc3MjEwMDk0OSwiaWRwIjoiY2xfZmVkX3Byb3ZpZGVyIiwiY2xfaW5zdF9uYW1lIjoiUHJhaXJpZSBWaWV3IEEgJiBNIFVuaXZlcnNpdHkiLCJjbF9pbnN0X2lkIjoiMzUyMSIsImFtciI6WyJleHRlcm5hbCJdfQ.JusjwWGz6tqwS1NJMp9-M1DfWo7tunMcKNZSP-pHe4ebVKXgh0ZfTxIMKuXa8Ue5GyforjU09NQQcW7u__W_vH4z9IhODqbPVTiZBksjPK1lSQPh7m-OPxK__1GipzIzB_Gyd_LPJRFHixRZwXHULK9rS2I3O3TezgBJMO_MnU1r-EhzRkIKMvbi0q7Z1VBnSMAHu46ZR4ozEzkIFoCCUMRUBdRPn1foi9sJb_1bY_k9BLwK0ducr9aMITEp56qzBgpHAWXyapfykRiXtVLYJihU2zaZkCYuk1GYHr-tQsw1ZsfBtDE5TmP67t8sF_9fAj4Uko--deMTEpM4t7R8Fw","environment":"USA","institution":{"id":3521,"name":"PVPaw Link","src":"https://se-images.campuslabs.com/clink/images/46807595-e81a-4c00-a563-b328afd0aaf506913170-2e70-47fa-9b2b-ac93589cbf5a.png","accentColor":"#582c83","config":{"institution":{"name":"Prairie View A & M University","campusLabsHostUrl":"https://pvamu.campuslabs.com/engage/"},"communityTimeZone":"America/Chicago","communityDirectoryEnabled":true,"analytics":{"enabled":false,"property":null},"documents":{"enabled":true},"elections":{"enabled":true},"finance":{"enabled":false},"outcomes":{"enabled":false},"serviceHours":{"enabled":true},"transcript":{"enabled":true,"displayName":"Involvement Record"},"curriculum":{"enabled":true},"experiences":{"enabled":true},"eventPass":{"enabled":true},"corq":{"enabled":false},"textMessaging":{"enabled":true}},"configuration":{"timeZone":"America/Chicago","brandName":"PVPaw Link","preferredName":"Prairie View A & M University","campusLabsHostUrl":"https://pvamu.campuslabs.com/engage/","communityDirectory":{"enabled":true},"analytics":{"enabled":false},"documents":{"enabled":true},"elections":{"enabled":true},"finance":{"purchaseRequestPayeeEnabled":true,"enabled":false},"financePurchaseRequests":null,"financeFundingRequests":null,"budgeting":{"enabled":false},"roomReservation":{"enabled":false},"outcomes":{"enabled":false},"serviceHours":{"enabled":true},"transcript":{"displayName":"Involvement Record","enabled":true},"paths":{"enabled":true},"experiences":{"enabled":true},"eventPass":{"available":true,"enabled":true},"corq":{"enabled":false},"voterEngagement":{"referralLink":"https://campuslabs.turbovote.org/?r=Engage-3521","enabled":true},"textMessaging":{"enabled":true}}},"user":{"id":"b44ca300-0909-4ef0-9c6f-50ee27b91248","accountId":"b44ca300-0909-4ef0-9c6f-50ee27b91248","identifiers":{"communityMemberId":39223495,"accountId":"b44ca300-0909-4ef0-9c6f-50ee27b91248","username":"mjones292","campusEmail":"mjones292@pvamu.edu"},"firstName":"Mario","lastName":"Jones II","src":"https://se-images.campuslabs.com/clink/images/981c9ede-8694-4acf-adae-d021dc77e345cd109a38-f7a1-4031-b348-b01d7715c22b.png","permissionView":0,"permissionFull":0,"isSystemAdmin":false,"isImpersonating":false,"branchAdminBranchIds":[]},"org":null,"imageServerBaseUrl":"https://se-images.campuslabs.com/clink/images/","contextRoot":""},"filePath":"https://static.campuslabsengage.com/comp-navigation/latest/navigation/standalone/main.esm.js.gz?v=fab2a353-dd48-4583-8350-9b4389877e75","links":{"branch":null,"organization":null,"discovery":[{"active":false,"link":"/","label":"Home","iconClass":"home","newWindow":false,"dividerAfter":false},{"active":false,"link":"/events","label":"Events","iconClass":"calendar","newWindow":false,"dividerAfter":false},{"active":true,"link":"/organizations","label":"Organizations","iconClass":"users","newWindow":false,"dividerAfter":false},{"active":false,"link":"/news","label":"News","iconClass":"newspaper-o","newWindow":false,"dividerAfter":false},{"active":false,"link":"/forms","label":"Forms","iconClass":"files-o","newWindow":false,"dividerAfter":false}],"userDrawer":[{"active":false,"link":"/eventpass","label":"Event Pass","iconClass":"qrcode","newWindow":true,"dividerAfter":true},{"active":false,"link":"/involvement/paths","label":"Paths","iconClass":null,"newWindow":false,"dividerAfter":false},{"active":false,"link":"/involvement/pastevents","label":"Event History","iconClass":null,"newWindow":false,"dividerAfter":false},{"active":false,"link":"/involvement/currentmemberships","label":"My Organizations","iconClass":null,"newWindow":false,"dividerAfter":false},{"active":false,"link":"/involvement/experiences","label":"Experiences","iconClass":null,"newWindow":false,"dividerAfter":false},{"active":false,"link":"/involvement/servicehours","label":"Service Hours","iconClass":null,"newWindow":false,"dividerAfter":false},{"active":false,"link":"/involvement/transcript","label":"Involvement Record","iconClass":null,"newWindow":false,"dividerAfter":false},{"active":false,"link":"/submissions","label":"Submissions","iconClass":null,"newWindow":false,"dividerAfter":false},{"active":false,"link":"/notifications","label":"Notifications","iconClass":null,"newWindow":false,"dividerAfter":false},{"active":false,"link":"/actioncenter/downloads","label":"Downloads","iconClass":null,"newWindow":false,"dividerAfter":false},{"active":false,"link":"https://campuslabs.turbovote.org/?r=Engage-3521","label":"Get Ready to Vote","iconClass":null,"newWindow":true,"dividerAfter":false}]},"launchDarkly":{"microsoft-clarity":true}};
+var topbarFile = 'https://static.campuslabsengage.com/comp-navigation/latest/navigation/standalone/main.esm.js.gz?v=fab2a353-dd48-4583-8350-9b4389877e75';
+function storageAvailable(type) {
+try {
+var storage = window[type],
+x = '__storage_test__';
+storage.setItem(x, x);
+storage.removeItem(x);
+return true;
+} catch (e) {
+return (
+e instanceof DOMException &&
+(e.code === 22 ||
+e.code === 1014 ||
+e.name === 'QuotaExceededError' ||
+e.name === 'NS_ERROR_DOM_QUOTA_REACHED') &&
+storage.length !== 0
+);
+}
+}
+
+if (!storageAvailable('sessionStorage')) {
+window.engageStorage = {
+_data: {},
+setItem: function(id, val) {
+return (this._data[id] = String(val));
+},
+getItem: function(id) {
+return this._data.hasOwnProperty(id) ? this._data[id] : undefined;
+},
+removeItem: function(id) {
+return delete this._data[id];
+},
+clear: function() {
+return (this._data = {});
+},
+};
+} else {
+window.engageStorage = window.sessionStorage;
+}
+
+window.engageStorage.setItem(
+'initialTopbarState',
+JSON.stringify(initialTopbarState)
+);
+window.engageStorage.setItem('topbarFile', topbarFile);
+})();
+
+
+  (function(c,l,a,r,i,t,y){
+  c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+  t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+  y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+  })(window, document, "clarity", "script", "3xldl8atnn");
+
+if (global === undefined) {
+  var global = window;
+}
